@@ -1,32 +1,32 @@
-# 👋 Hi, I'm Matheus
+# 👋 Olá, eu sou o Matheus
 
-💡 I build simple and functional systems to solve real-world problems.  
-🎯 I focus on writing clean and easy-to-understand code.
-
----
-
-## 🧠 About me
-
-I am a beginner developer improving my skills by building real projects.
-
-My focus:
-- Write simple and clean code
-- Solve real problems
-- Improve a little every day
+💡 Eu desenvolvo sistemas simples e funcionais para resolver problemas do mundo real.  
+🎯 Tenho foco em escrever código limpo e fácil de entender.
 
 ---
 
-## 🚀 Projects in progress
+## 🧠 Sobre mim
 
-### 📚 Education system
-A system to manage courses and school organization.
+Sou um desenvolvedor iniciante que está evoluindo suas habilidades através de projetos reais.
 
-### 🚐 School transport system
-A system to manage routes, students and school transport.
+Meu foco:
+- Escrever código simples e limpo
+- Resolver problemas reais
+- Melhorar um pouco a cada dia
 
 ---
 
-## 🛠️ Technologies
+## 🚀 Projetos em desenvolvimento
+
+### 📚 Sistema educacional
+Um sistema para gerenciar cursos e organização escolar.
+
+### 🚐 Sistema de transporte escolar
+Um sistema para gerenciar rotas, alunos e transporte escolar.
+
+---
+
+## 🛠️ Tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35"/>
@@ -40,9 +40,9 @@ A system to manage routes, students and school transport.
 
 ---
 
-## 📚 Next steps
+## 📚 Próximos passos
 
-Currently learning:
+Atualmente estudando:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
@@ -52,7 +52,7 @@ Currently learning:
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 <p>
   <a href="https://www.linkedin.com/in/matheus-tenorio-706278397/" target="_blank">
@@ -62,4 +62,4 @@ Currently learning:
 
 ---
 
-⭐ Always learning and building better solutions.
+⭐ Sempre evoluindo e construindo soluções melhores.
