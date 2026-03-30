@@ -42,7 +42,7 @@ Um sistema para gerenciar rotas, alunos e transporte escolar.
 
 ## 📚 Próximos passos
 
-Atualmente estudando:
+Pretendo estudar:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
