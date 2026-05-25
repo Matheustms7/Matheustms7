@@ -18,11 +18,11 @@ Meu foco:
 
 ## 🚀 Projetos em desenvolvimento
 
+### 🎮 RPG de terminal em C#
+Sistema de batalha com ataque, defesa, crítico, cura e eventos aleatórios.
+
 ### 📚 Sistema educacional
 Um sistema para gerenciar cursos e organização escolar.
-
-### 🚐 Sistema de transporte escolar
-Um sistema para gerenciar rotas, alunos e transporte escolar.
 
 ---
 
