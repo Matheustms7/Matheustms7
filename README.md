@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Matheus
 
-💡 Eu desenvolvo sistemas simples e funcionais para resolver problemas do mundo real.  
-🎯 Tenho foco em escrever código limpo e fácil de entender.
+💻 Desenvolvedor iniciante focado em aprender através de projetos práticos.
+
+🎯 Atualmente estou criando sistemas e pequenos jogos para evoluir cada vez mais.
 
 ---
 
@@ -10,7 +11,8 @@
 Sou um desenvolvedor iniciante que está evoluindo suas habilidades através de projetos reais.
 
 Meu foco:
-- Escrever código simples e limpo
+- Desenvolvimento de sistemas
+- Organização e melhoria de código
 - Resolver problemas reais
 - Melhorar um pouco a cada dia
 
